@@ -4,9 +4,7 @@ Node.js has a single-threaded event loop by default.
 
 The main thread can delegate CPU-Intensive tasks to worker threads, allowing the worker thread to remain responsive and handle other requests.
 
-```text
-Worker threads work as separate JavaScript execution contexts within the same Node.js process.
-```
+> Worker threads work as separate JavaScript execution contexts within the same Node.js process.
 
 Worker Threads allows:
     - Offload CPU-bound tasks: Free the main thread for other tasks
