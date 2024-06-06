@@ -22,7 +22,7 @@ To effectively handle errors in Node.js, you need to use a combination of synchr
 4. Programmer Errors
 
     Bugs in the program (e.g., type errors, assertion failures).
-    
+
     These should be caught and handled appart from operational errors.
 
 ## SYNCHRONOUS ERROR HANDLING
