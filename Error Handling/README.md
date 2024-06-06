@@ -1,5 +1,7 @@
 # ERROR HANDLING IN Node.js
 
+To effectively handle errors in Node.js, you need to use a combination of synchronous and asynchronous techniques, centralized management, and advanced strategies such as custom error classes and robust logging.
+
 ## ERROR TYPES
 
 1. Synchronous Errors
