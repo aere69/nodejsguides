@@ -20,3 +20,5 @@ MySQL is a widely-used relational database management system known for its relia
 ## Integration with Node.js and Express
 
 Use the mysql2 or sequelize library for object-relational mapping (ORM).
+
+[Sample Configuration](./app.js)

@@ -21,3 +21,5 @@
 ## Integration with Node.js and Express
 
 Use the redis library.
+
+[Sample Configuration](./app.js)

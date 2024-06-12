@@ -21,3 +21,5 @@
 ## Integration with Node.js and Express
 
 - Use the Mongoose library, which provides a straightforward schema-based solution to model your application data.
+
+[Sample Configuration](./app.js)

@@ -20,3 +20,5 @@ PostgreSQL is a powerful, open-source relational database system known for its a
 ## Integration with Node.js and Express
 
 Use the pg library or an ORM like Sequelize or TypeORM.
+
+[Sample Configuration](./app.js)
